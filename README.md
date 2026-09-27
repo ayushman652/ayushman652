@@ -55,17 +55,8 @@ algorithms and visualizing quantum circuits.
 
 ---
 
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayushman652&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushman652&layout=compact&theme=github_dark)
-
----
 
 ## 🤝 Connect With Me
 
 [LinkedIn](https://www.linkedin.com/in/ayushman-singh-444902283/)
 
-[GitHub](https://github.com/ayushman652)
-  
