@@ -1,32 +1,71 @@
-# Hi, I'm Ayushman 👋
 
-💻 Computer Science Student | C++ | Python  
-🤖 Machine Learning | Deep Learning  
-⚛️ Exploring Quantum Computing with Qiskit  
+# Hi there, I'm Ayushman Singh! 👋
+
+### Computer Science Student | AI & ML Enthusiast
+
+I'm a Computer Science undergraduate at Sikkim Manipal
+Institute of Technology, passionate about Artificial
+Intelligence, Machine Learning and Software Development.
+
+I enjoy turning theoretical concepts into real-world
+applications and exploring new technologies.
 
 ---
 
-## 🚀 Projects
+## 🚀 About Me
 
-### 🩺 Pneumonia Detection (CNN)
-- Built using TensorFlow/Keras  
-- Achieved **96.5% accuracy and ~99% recall**  
-- Used VGG16, ResNet50, DenseNet121  
+- 🎓 B.Tech in Computer Science & Engineering
+- 🧠 Interested in AI, Machine Learning & Deep Learning
+- 💻 Working with Python, C++ and ML frameworks
+- ⚛️ Exploring Quantum Computing with Qiskit
+- 🌱 Continuously learning and building new projects
+
+## 🛠️ Tech Stack
+
+**Languages:** Python, C, C++
+
+**AI & ML:** TensorFlow, Keras, PyTorch, scikit-learn
+
+**Developer Tools:** Git, GitHub, VS Code, Jupyter
+
+**Quantum Computing:** Qiskit
+
+---
+
+## 🌟 Featured Projects
+
+### 🫁 Pneumonia Detection Using CNN
+
+Deep learning-based pneumonia detection from chest
+X-ray images.
+
+- Built using TensorFlow and Keras
+- Achieved 96.5% validation accuracy
+- Experimented with VGG16, ResNet50 and DenseNet121
+- Explored transfer learning for medical imaging
 
 ### ⚛️ Quantum Algorithm Simulator
-- Built using Qiskit + Tkinter GUI  
-- Implemented Grover’s, Deutsch–Jozsa, Bernstein–Vazirani  
-- Visualized circuits and results  
+
+An interactive application for exploring quantum
+algorithms and visualizing quantum circuits.
+
+- Developed using Python, Qiskit and Tkinter
+- Implemented Grover's and Deutsch–Jozsa algorithms
+- Added interactive circuit and result visualization
 
 ---
 
-## 🛠 Tech Stack
-- C++, Python  
-- TensorFlow, Keras  
-- Qiskit  
-- Git, Streamlit  
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayushman652&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushman652&layout=compact&theme=github_dark)
 
 ---
 
-## 📫 Connect with me
-- LinkedIn: https://www.linkedin.com/in/ayushman-singh-444902283/
+## 🤝 Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/ayushman-singh-444902283/)
+
+[GitHub](https://github.com/ayushman652)
+  
